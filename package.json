@@ -1,20 +1,40 @@
 {
   "name": "neondarkknext",
   "displayName": "NeonDarkk_Next",
-  "description": "A beautiful dark theme",
-  "version": "0.0.1",
+  "description": "A good looking neon dark theme",
+  "icon": "assets/icon.png",
+  "version": "1.0.0",
+  "publisher": "JackMakingThemes",
   "engines": {
-    "vscode": "^1.94.0"
+  "vscode": "^1.94.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "NeonDarKK_Next",
+    "neondarkk_next",
+    "neondarkknext",
+    "neondarknext",
+    "NeonDarKK",
+    "neondark",
+    "neon dark",
+    "vscode",
+    "theme",
+    "dark",
+    "neon dark theme",
+    "dark theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNJTdhr/NeonDarKK_Next.git"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "NeonDarkk_Next",
+        "label": "NeonDarKK",
         "uiTheme": "vs-dark",
-        "path": "./themes/NeonDarkk_Next-color-theme.json"
+        "path": "./themes/NeonDarKK_Next-color-theme.json"
       }
     ]
   }

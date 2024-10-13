@@ -1,16 +1,39 @@
-# neondarkknext README
+# NeonDarkk_Next
 
-## Working with Markdown
+Introducing NeonDarkk_Next: A Vibrant Dark Theme for VS Code.
+<br>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Flutter
+<p align="center">
+  <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/flutter.png" >
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### HTML
+<p align="center">
+  <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/html.png" >
+</p>
 
-## For more information
+### CSS
+<p align="center">
+  <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/css.png" >
+</p>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Javascript
+<p align="center">
+  <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/js.png" >
+</p>
 
-**Enjoy!**
+### C++
+<p align="center">
+  <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/cpp.png" >
+</p>
+
+### C++
+<p align="center">
+  <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/cpp2.png" >
+</p>
+
+### C
+<p align="center">
+  <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/c.png" >
+</p>

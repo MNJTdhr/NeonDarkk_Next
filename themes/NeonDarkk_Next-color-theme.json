@@ -275,7 +275,7 @@
 				"keyword.control.return.cpp", //returns in cpps
 			],
 			"settings": {
-				"foreground": "#6e81ff"
+				"foreground": "#ff6464"
 			}
 		},
 		{
