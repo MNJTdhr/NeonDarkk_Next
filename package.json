@@ -3,7 +3,7 @@
   "displayName": "NeonDarkk_Next",
   "description": "A good looking neon dark theme",
   "icon": "assets/icon.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "JackMakingThemes",
   "engines": {
   "vscode": "^1.94.0"
@@ -32,7 +32,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "NeonDarKK",
+        "label": "NeonDarKK_Next",
         "uiTheme": "vs-dark",
         "path": "./themes/NeonDarKK_Next-color-theme.json"
       }
