@@ -23,6 +23,11 @@ Introducing NeonDarkk_Next: A Vibrant Dark Theme for VS Code.
   <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/js.png" >
 </p>
 
+### Python
+<p align="center">
+  <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/py.png" >
+</p>
+
 ### C++
 <p align="center">
   <img alt="preview" src="https://github.com/MNJTdhr/NeonDarkk_Next/raw/main/assets/cpp.png" >
